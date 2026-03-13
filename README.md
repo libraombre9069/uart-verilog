@@ -88,9 +88,6 @@ uart-verilog/
 ├── testbench/
 │   └── uart_tb.v
 │
-├── simulation/
-│   └── uart_waveform.vcd
-│
 ├── images/
 │   └── uart_sim_waveform.png
 │
