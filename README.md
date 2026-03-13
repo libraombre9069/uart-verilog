@@ -104,7 +104,7 @@ Open waveform in GTKWave for signal analysis.
 
 # Example Waveform
 
-![UART Waveform](images/uart_waveform.png)
+![UART Waveform](images/uart_sim_waveform.jpeg)
 
 # Author
 
