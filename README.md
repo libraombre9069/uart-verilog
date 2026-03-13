@@ -75,16 +75,17 @@ Xilinx Vivado for design and simulation
 
 GTKWave for waveform visualization
 
-# Project Structure
-uart-verilog
+## Project Structure
+
+uart-verilog/
 │
-├── src
+├── src/
 │   ├── uart_top.v
 │   ├── uart_tx.v
 │   ├── uart_rx.v
 │   └── baud_generator.v
 │
-├── testbench
+├── testbench/
 │   └── uart_tb.v
 │
 └── README.md
