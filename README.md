@@ -75,8 +75,8 @@ Xilinx Vivado for design and simulation
 
 GTKWave for waveform visualization
 
-## Project Structure
-
+# Project Structure
+```
 uart-verilog/
 │
 ├── src/
@@ -89,6 +89,7 @@ uart-verilog/
 │   └── uart_tb.v
 │
 └── README.md
+```
 # Simulation
 
 Write UART TX and RX modules in Verilog.
